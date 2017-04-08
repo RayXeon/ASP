@@ -1,3 +1,3 @@
 # ASP
 
-![point pairs](https://github.com/RayXeon/ASPASP/pointpairs.gif)
+![point pairs](https://github.com/RayXeon/ASP/pointpairs.gif)
